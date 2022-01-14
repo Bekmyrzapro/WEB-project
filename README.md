@@ -1,4 +1,7 @@
 # WEB-project
+Done by: Bekmyrza Dzhekshanaloev
+         Chyngyz Utkelbaev
+
 
 ![Annotation](https://user-images.githubusercontent.com/74038682/149458610-ad797674-29a3-450b-a836-df90613d3d79.png)
 ![dbcolumn](https://user-images.githubusercontent.com/74038682/149458632-4e4a2660-859a-4282-a509-02de1e415501.png)
